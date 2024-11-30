@@ -11,7 +11,7 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Nikunj Korat </span>
             from <span className="purple"> Surat, India.</span>
             <br />
-            I am currently employed as a software developer at KGK Infotech LLP.
+            I am currently employed as a software developer at Infosoft LLC, a USA-based company, and my job is remote.
             <br />
             I have completed BCA in Information Technology at VNSGU Surat.
             <br />
